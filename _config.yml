@@ -1,4 +1,3 @@
-analytics:       
-provider: custom  
-
+analytics: true
+provider: custom 
 theme: jekyll-theme-minimal
