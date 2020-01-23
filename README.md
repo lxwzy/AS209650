@@ -19,4 +19,4 @@ Report to bgp[#]zhiyuan.in.
 
 ------------
 
-© Copyright 2019 [Wu Zhiyuan](https://www.wuzhiyuan.com)
+© Copyright 2020 [Wu Zhiyuan](https://www.wuzhiyuan.com)
